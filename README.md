@@ -1,1 +1,2 @@
-# uvv_bd1_CC1MB
+# Área geral do PSET.
+### 1° PSET da disciplina de Design e Desenvolvimento de Banco de Dados, aplicada pelo professor Abrantes. 
